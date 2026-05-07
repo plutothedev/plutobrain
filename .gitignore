@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Obsidian workspace state (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Obsidian plugin user data
+.obsidian/plugins/*/data.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Claude Code session data (private)
+.claude/projects/
+.claude/history.jsonl
+.claude/cache/
+.claude/backups/
+.claude/file-history/
+.claude/downloads/
+.claude/mcp-needs-auth-cache.json
+
+# User's personal vault content (uncomment if forking and want to keep your content private)
+# 01 Journals/daily/*.md
+# 03 Projects/*/
+# !03 Projects/_PROJECT_TEMPLATE/
+# inbox/*
+# !inbox/.gitkeep
+# 00 Notes/saved-chats/
+# 00 Notes/research/
+# 00 Notes/sources/
+# 00 Notes/email-threads/
+# 00 Notes/lint-reports/
+# media/*
+# !media/.gitkeep
+
+# Auto-generated logs
+log.md.bak
+*.log
+
+# OS junk
+*.swp
+*.swo
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.iml

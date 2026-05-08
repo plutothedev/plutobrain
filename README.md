@@ -1,8 +1,17 @@
 # 🧠 PlutoBrain
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made with Obsidian](https://img.shields.io/badge/Built%20on-Obsidian-7C3AED.svg)](https://obsidian.md)
+[![Powered by Claude Code](https://img.shields.io/badge/Powered%20by-Claude%20Code-D97757.svg)](https://www.anthropic.com/claude-code)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2.svg)](https://discord.gg/SChW8hVmRv)
+[![YouTube](https://img.shields.io/badge/Watch%20the%20walkthrough-FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WGlzC7X7850)
+
 **A personal AI knowledge OS.** Obsidian vault + Claude Code + 14 skills + a self-awareness layer + a bias-fighting divergence pass.
 
 > Build a real second brain on your machine in ~30 minutes. No coding required. Free.
+
+🎥 **Watch the full walkthrough:** [How To Build Your Own AI Brain — Obsidian + Claude Code (Free Template)](https://www.youtube.com/watch?v=WGlzC7X7850)
+💬 **Join the community:** [discord.gg/SChW8hVmRv](https://discord.gg/SChW8hVmRv)
 
 ---
 
@@ -127,13 +136,21 @@ The template is opinionated but every part is yours to change:
 
 The system rewards customization. Make it yours.
 
+## Community
+
+- 💬 **Discord:** [discord.gg/SChW8hVmRv](https://discord.gg/SChW8hVmRv) — drop your vault graph, ask questions, share skills you've built on top
+- 🎥 **YouTube:** [@paidbypluto](https://www.youtube.com/@paidbypluto) — walkthrough video, future updates, AI workflow content
+- 📲 **Instagram:** [@developerpluto](https://www.instagram.com/developerpluto)
+
+If you build with the template, post your vault graph in the Discord. Always.
+
 ## License
 
 MIT. Use freely, modify, share.
 
 ## Contributing
 
-Found a bug, wrote a great new skill, want to suggest a pattern improvement? PRs welcome.
+Found a bug, wrote a great new skill, want to suggest a pattern improvement? PRs welcome — open an issue first if it's a substantial change so we can talk through scope.
 
 ## About
 

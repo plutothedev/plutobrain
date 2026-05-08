@@ -157,13 +157,7 @@ After this, restart Claude Code (`/exit`, then `claude`) so it picks up your new
 
 ---
 
-## STEP 7 — (skipped — handled in Step 6)
-
-`GOALS.md` and `patterns.md` are now produced by the brain-setup skill in Step 6. If you ran the express version and want to deepen the goals later, run `interview me about my goals and update GOALS.md` in Claude Code.
-
----
-
-## STEP 8 — Start your daily note habit
+## STEP 7 — Start your daily note habit
 
 In Claude Code (with vault open):
 
@@ -181,7 +175,7 @@ At end of day, fill in the reflection section.
 
 ---
 
-## STEP 9 — Start using the skills
+## STEP 8 — Start using the skills
 
 Pick one demo to try right now:
 
@@ -208,7 +202,7 @@ Claude searches the vault, synthesizes a cited answer, and FILES the answer back
 
 ---
 
-## STEP 10 — Your first project
+## STEP 9 — Your first project
 
 In Claude Code:
 ```
@@ -218,7 +212,7 @@ Claude walks you through creating your first project under `03 Projects/`. You'l
 
 ---
 
-## STEP 11 — Weekly cadence
+## STEP 10 — Weekly cadence
 
 Every Sunday (or whenever your week ends), in Claude Code:
 
@@ -232,7 +226,7 @@ This is the keystone habit. **5 minutes a week to keep the system alive.**
 
 ---
 
-## STEP 12 — Add your own patterns
+## STEP 11 — Add your own patterns
 
 After 2-4 weeks of daily notes, run:
 
@@ -246,7 +240,7 @@ Claude walks through your notes and proposes patterns it's observing — recurri
 
 ---
 
-## STEP 13 — Customize and own it
+## STEP 12 — Customize and own it
 
 PlutoBrain is a starting point. The power compounds when you customize:
 

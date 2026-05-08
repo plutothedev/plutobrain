@@ -10,6 +10,20 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) loos
 
 ---
 
+## [v1.2] — 2026-05-08
+
+### Added
+
+- **README badges** — License, Obsidian, Claude Code, Discord, YouTube walkthrough.
+- **Watch the walkthrough** callout near the top of the README linking the YouTube video.
+- **Community section** in the README — Discord, YouTube channel, Instagram.
+
+### Changed
+
+- **SETUP_GUIDE.md** Steps 7-13 renumbered to 7-12. The previous awkward "Step 7 (skipped)" placeholder is gone — Step 7 is now "Start your daily note habit" and the rest of the steps shift down by one.
+
+---
+
 ## [v1.1] — 2026-05-08
 
 ### Changed

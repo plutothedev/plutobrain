@@ -91,7 +91,7 @@ PlutoBrain/
 
 | Skill | What it does |
 |---|---|
-| `/brain-setup` | Interview-driven CLAUDE.md generator. Run this first. |
+| `/brain-setup` | Interview-driven setup of `CLAUDE.md`, `GOALS.md`, and `patterns.md`. 10-round deep interview that captures who you are, your goals at 1/3/10-year horizons, your operating style, your stress behavior, your gating conditions, and your prime directive. Run this first. |
 | `/new-project` | Interview-driven project creation under `03 Projects/`. |
 | `/weekly-update` | Refresh context across the brain. Run weekly. |
 | `/deep-context-fill` | Gap-targeted CLAUDE.md depth interview. Run after 1 week of use. |

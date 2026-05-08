@@ -119,31 +119,47 @@ To exit Claude Code: type `/exit` or press Ctrl+C twice.
 
 ---
 
-## STEP 6 — Customize CLAUDE.md (the brain's "personality")
+## STEP 6 — Run the brain-setup skill (the most important step)
 
-The vault's root `CLAUDE.md` is what Claude reads every session to know who you are, how you communicate, and what this vault is for.
+The vault's three foundation files — `CLAUDE.md`, `GOALS.md`, and `patterns.md` — are what Claude reads at the start of every session. They tell Claude who you are, what you're working toward, how you communicate, your strengths and weaknesses, the patterns you want flagged, and your one-sentence prime directive.
 
-Two ways to fill it in:
+**You don't fill these in manually.** You run a skill that interviews you, then writes them in your voice.
 
-### Option A — Run the brain-setup skill (recommended)
-In Claude Code, type:
+### Run the interview
+
+In Claude Code:
 ```
 run the brain-setup skill in 05 Skills
 ```
-Claude will interview you (~10 minutes) and write a personalized CLAUDE.md based on your answers.
 
-### Option B — Edit it manually
-Open `CLAUDE.md` in Obsidian or any editor. Replace every `{{PLACEHOLDER}}` and the `EXAMPLE` blocks with your real info.
+This is a **10-round, 30-45 minute interview**. It covers:
 
-After this, restart Claude Code (`/exit`, then `claude`) so it picks up your new CLAUDE.md.
+1. Identity & life context — who you are, where you are, what's happening right now
+2. Mission, purpose, what energizes you — the big-arrow direction
+3. Communication preferences — how you want Claude to talk to you (blunt, balanced, supportive)
+4. Operating style & stress behavior — when you're sharp, what you do under pressure
+5. Strengths — your unfair advantages
+6. Failure modes — captured as named patterns Claude can flag back at you ("The Tool Trap," "The Yes Reflex")
+7. 1-year goals — wealth, career, health, relationships, skills, with real numbers
+8. 3-year & 10-year vision — the identity you're building toward
+9. Gating conditions & key relationships — what has to be true before X, the people who shape your decisions
+10. Active projects, daily rhythm, prime directive — what you're working on, when you work, the ONE thing this brain must do well
+
+After all 10 rounds, Claude generates `CLAUDE.md`, `GOALS.md`, and `patterns.md` — shows them to you for review — and only writes them after you confirm.
+
+**Quick version:** if you don't have 30-45 minutes, run `run the brain-setup skill express`. It does Rounds 1, 3, 5, 8, 10 only (~10-15 min). Resulting brain will be shallower until you run a full session later.
+
+### Why this matters
+
+The depth of this interview determines the quality of every future Claude session in this vault. A shallow setup produces generic AI responses. A deep, honest setup produces a thinking partner that actually knows you.
+
+After this, restart Claude Code (`/exit`, then `claude`) so it picks up your new files.
 
 ---
 
-## STEP 7 — Fill in GOALS.md
+## STEP 7 — (skipped — handled in Step 6)
 
-Same pattern. Open `GOALS.md` and replace placeholders with your real goals at 1-year, 3-year, 10-year horizons. Add gating conditions. Be specific.
-
-Or: in Claude Code, ask `interview me about my goals and fill in GOALS.md`. Claude will walk you through it.
+`GOALS.md` and `patterns.md` are now produced by the brain-setup skill in Step 6. If you ran the express version and want to deepen the goals later, run `interview me about my goals and update GOALS.md` in Claude Code.
 
 ---
 

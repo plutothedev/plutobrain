@@ -13,6 +13,8 @@
 🎥 **Watch the full walkthrough:** [How To Build Your Own AI Brain — Obsidian + Claude Code (Free Template)](https://www.youtube.com/watch?v=WGlzC7X7850)
 💬 **Join the community:** [discord.gg/SChW8hVmRv](https://discord.gg/SChW8hVmRv)
 
+![PlutoBrain — Capture, Store, Think, Act](media/demo.gif)
+
 ---
 
 ## What this is

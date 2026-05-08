@@ -10,6 +10,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) loos
 
 ---
 
+## [v1.3] — 2026-05-08
+
+### Added
+
+- **README demo GIF** — split-screen showing a real Obsidian graph view on the left and an animated terminal on the right where Claude reads the vault and lists its folders. Sells the concept in 7 seconds. Lives at `media/demo.gif`.
+
+---
+
 ## [v1.2] — 2026-05-08
 
 ### Added

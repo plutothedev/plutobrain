@@ -8,7 +8,7 @@
 
 ## What this is
 
-PlutoBrain is a fork-able template for building your own AI second brain. It's the system Pluto uses every day — sanitized, generalized, and packaged so you can clone it.
+PlutoBrain is a fork-able template for building your own AI second brain. It's the system Pluto uses every day — generalized and packaged so you can clone it and make it yours.
 
 What's in the box:
 

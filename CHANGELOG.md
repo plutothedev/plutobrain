@@ -30,9 +30,9 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) loos
 - `.claude/commands/divergence-check.md` — slash-command shim (was missing from v1.0).
 - `IDEAS.md` — community feature requests can be triaged here.
 
-### Fixed
+### Changed
 
-- `.claude/commands/import-videos.md` had hardcoded paths from the maintainer's machine. Sanitized into a generic template stub users can adapt or delete.
+- `.claude/commands/import-videos.md` simplified into a generic template stub users can adapt to their own importer or delete.
 
 ---
 

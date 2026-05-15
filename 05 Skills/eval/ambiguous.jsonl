@@ -1,0 +1,5 @@
+{"intent": "process this", "expected_skill": "ask", "notes": "ambiguous: sync (batch) or ingest (single)?"}
+{"intent": "save this", "expected_skill": "ask", "notes": "ambiguous if attached file: save (chat) or ingest (source)?"}
+{"intent": "remember this", "expected_skill": "ask", "notes": "could be save, signal-detector, or a CLAUDE.md addition"}
+{"intent": "add this to my brain", "expected_skill": "ask", "notes": "ambiguous capture type"}
+{"intent": "clean it up", "expected_skill": "ask", "notes": "refine vs lint vs sync"}

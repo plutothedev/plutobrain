@@ -1,0 +1,9 @@
+{"intent": "save this chat", "expected_skill": "save"}
+{"intent": "save the conversation", "expected_skill": "save"}
+{"intent": "save this discussion", "expected_skill": "save"}
+{"intent": "save this to my brain", "expected_skill": "save"}
+{"intent": "/save", "expected_skill": "save"}
+{"intent": "save what we just talked about", "expected_skill": "save"}
+{"intent": "capture this session as a wiki note", "expected_skill": "save"}
+{"intent": "drop this convo into the vault", "expected_skill": "save"}
+{"intent": "make a saved-chat from this", "expected_skill": "save"}

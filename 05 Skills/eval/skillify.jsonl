@@ -1,0 +1,5 @@
+{"intent": "skillify this", "expected_skill": "skillify"}
+{"intent": "turn this fix into a durable skill", "expected_skill": "skillify"}
+{"intent": "/skillify", "expected_skill": "skillify"}
+{"intent": "this bug keeps happening, codify the fix", "expected_skill": "skillify"}
+{"intent": "make a permanent skill out of this workflow", "expected_skill": "skillify"}

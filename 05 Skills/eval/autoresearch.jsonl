@@ -1,0 +1,6 @@
+{"intent": "research X for me", "expected_skill": "autoresearch"}
+{"intent": "deep-dive on Y", "expected_skill": "autoresearch"}
+{"intent": "do a research pass on prop firm payout structures", "expected_skill": "autoresearch"}
+{"intent": "/autoresearch", "expected_skill": "autoresearch"}
+{"intent": "find me everything on Acme Trading Firm's evaluation rules", "expected_skill": "autoresearch", "notes": "external research, not vault search"}
+{"intent": "look into how YC sources founders", "expected_skill": "autoresearch"}

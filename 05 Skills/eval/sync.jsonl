@@ -1,0 +1,9 @@
+{"intent": "process my inbox", "expected_skill": "sync"}
+{"intent": "run sync", "expected_skill": "sync"}
+{"intent": "sync everything", "expected_skill": "sync"}
+{"intent": "/sync", "expected_skill": "sync"}
+{"intent": "process inbox items", "expected_skill": "sync"}
+{"intent": "route my inbox", "expected_skill": "sync"}
+{"intent": "the inbox is getting big, can you sync it", "expected_skill": "sync"}
+{"intent": "resync everything", "expected_skill": "sync", "notes": "resync flag, still sync skill"}
+{"intent": "I dropped a voice memo in inbox, process it", "expected_skill": "sync"}

@@ -1,0 +1,4 @@
+{"intent": "make a canvas of my projects", "expected_skill": "canvas"}
+{"intent": "visual map of my Acme AI people", "expected_skill": "canvas"}
+{"intent": "/canvas", "expected_skill": "canvas"}
+{"intent": "build me a canvas showing a project relationship network", "expected_skill": "canvas"}

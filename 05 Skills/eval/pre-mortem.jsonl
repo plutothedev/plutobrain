@@ -1,0 +1,5 @@
+{"intent": "before I commit to this, pre-mortem it", "expected_skill": "pre-mortem"}
+{"intent": "run a pre-mortem on the Example Aspirational Car purchase", "expected_skill": "pre-mortem"}
+{"intent": "/pre-mortem", "expected_skill": "pre-mortem"}
+{"intent": "what could go wrong with this an example minor decision", "expected_skill": "pre-mortem"}
+{"intent": "stress-test this plan before I move on it", "expected_skill": "pre-mortem"}

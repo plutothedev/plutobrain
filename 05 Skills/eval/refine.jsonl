@@ -1,0 +1,7 @@
+{"intent": "refine the vault", "expected_skill": "refine"}
+{"intent": "clean up entities", "expected_skill": "refine"}
+{"intent": "walk my entity pages", "expected_skill": "refine"}
+{"intent": "/refine", "expected_skill": "refine"}
+{"intent": "merge duplicate people pages", "expected_skill": "refine"}
+{"intent": "promote stubs that have enough mentions", "expected_skill": "refine"}
+{"intent": "do a cleanup pass on companies", "expected_skill": "refine"}

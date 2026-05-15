@@ -1,0 +1,5 @@
+{"intent": "create a new project", "expected_skill": "new-project"}
+{"intent": "spawn a project for X", "expected_skill": "new-project"}
+{"intent": "/new-project", "expected_skill": "new-project"}
+{"intent": "set up project scaffolding for the trading prop firm work", "expected_skill": "new-project"}
+{"intent": "start a project folder for the an example minor decision", "expected_skill": "new-project"}

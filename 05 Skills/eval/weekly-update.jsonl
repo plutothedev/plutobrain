@@ -1,0 +1,5 @@
+{"intent": "weekly review", "expected_skill": "weekly-update"}
+{"intent": "refresh context", "expected_skill": "weekly-update"}
+{"intent": "update my brain", "expected_skill": "weekly-update"}
+{"intent": "/weekly-update", "expected_skill": "weekly-update"}
+{"intent": "do a weekly brain refresh", "expected_skill": "weekly-update"}

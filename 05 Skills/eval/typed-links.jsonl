@@ -1,0 +1,6 @@
+{"intent": "extract typed links", "expected_skill": "typed-links"}
+{"intent": "wire the graph", "expected_skill": "typed-links"}
+{"intent": "/typed-links", "expected_skill": "typed-links"}
+{"intent": "regenerate typed-edges.jsonl", "expected_skill": "typed-links"}
+{"intent": "rebuild the typed graph", "expected_skill": "typed-links"}
+{"intent": "extract the relationships from my pages", "expected_skill": "typed-links"}

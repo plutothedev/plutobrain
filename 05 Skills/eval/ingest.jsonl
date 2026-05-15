@@ -1,0 +1,8 @@
+{"intent": "ingest this PDF", "expected_skill": "ingest"}
+{"intent": "ingest this URL", "expected_skill": "ingest"}
+{"intent": "process this source", "expected_skill": "ingest"}
+{"intent": "/ingest", "expected_skill": "ingest"}
+{"intent": "read this article and add it to my brain", "expected_skill": "ingest"}
+{"intent": "ingest https://example.com/post", "expected_skill": "ingest"}
+{"intent": "import this paper", "expected_skill": "ingest"}
+{"intent": "save this PDF as a source note", "expected_skill": "ingest", "notes": "PDF -> ingest, not save (save is for chats)"}

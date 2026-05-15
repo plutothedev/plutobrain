@@ -1,0 +1,7 @@
+{"intent": "lint my vault", "expected_skill": "lint"}
+{"intent": "find orphan pages", "expected_skill": "lint"}
+{"intent": "vault health check", "expected_skill": "lint"}
+{"intent": "/lint", "expected_skill": "lint"}
+{"intent": "check for dead wikilinks", "expected_skill": "lint"}
+{"intent": "what's broken in my vault", "expected_skill": "lint"}
+{"intent": "run a health check", "expected_skill": "lint"}

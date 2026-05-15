@@ -1,0 +1,8 @@
+{"intent": "search my vault for X", "expected_skill": "query"}
+{"intent": "what do I know about Alice Example", "expected_skill": "query"}
+{"intent": "find references to Example University", "expected_skill": "query"}
+{"intent": "/query", "expected_skill": "query"}
+{"intent": "what's in my brain about a tracked vehicle", "expected_skill": "query"}
+{"intent": "search for mentions of Acme Trading Firm", "expected_skill": "query"}
+{"intent": "remind me what I know about Bob Sample", "expected_skill": "query"}
+{"intent": "pull up everything about Sample Education Benefit", "expected_skill": "query"}
